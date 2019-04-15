@@ -1,5 +1,0 @@
- ciao sono il file dance
-
-prima modifica su github
-
-quest è una riga scritta su eclipse
